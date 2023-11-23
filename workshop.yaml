@@ -4,7 +4,7 @@ channels:
     - bioconda
 dependencies:
     - python=3.9
-    - snakemake=7.8.1
+    - snakemake=7.32.3
     - graphviz=2.48.0
     - bcftools=1.15.1
     - samtools=1.15.1
