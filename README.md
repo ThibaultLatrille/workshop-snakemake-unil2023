@@ -8,7 +8,7 @@ This repository is used as a base for the workshop "Introduction to Snakemake fo
 
 The structure of the workshop loosely follows that of the official [Snakemake tutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html), with a few modifications.
 
-All the exercises and material required to complete them are available on the repository's [wiki](https://github.com/ThibaultLatrille/workshop-snakemake-unil2023).
+All the exercises and material required to complete them are available on the repository's [wiki](https://github.com/ThibaultLatrille/workshop-snakemake-unil2023/wiki).
 
 ## Setup the workshop environment
 
